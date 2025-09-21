@@ -1,0 +1,29 @@
+/* Tailwind v4 */
+@import "tailwindcss";
+
+@theme {
+  --text-Title: 26px;
+  --breakpoint-md: 900;
+  --breakpoint-bd: 1025px;
+  --text-stat-heading: 18px;
+  --text-body-copy: 15px;
+
+  --text-stats: 14px;
+  --font-Inter: "Inter";
+  --font-Inter: "Lexend Deca";
+  /* ### Primary */
+  /* (main background) */
+  --color-Navy-950: hsl(233, 47%, 7%);
+  /* (card background) */
+  --color-Blue-950: hsl(244, 37%, 16%);
+  /* (accent) */
+  --color-Purple-500: hsl(277, 64%, 61%);
+
+  /* ### Neutral */
+  /* (main heading, stats) */
+  --color-White-Heading: hsl(0, 0%, 100%);
+  /* (main paragraph) */
+  --color-White-paragraph: hsla(0, 0%, 100%, 0.75);
+  /* (stat headings) */
+  --color-White-stats: hsla(0, 0%, 100%, 0.6);
+}
