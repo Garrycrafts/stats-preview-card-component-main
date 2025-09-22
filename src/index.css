@@ -3,11 +3,9 @@
 
 @theme {
   --text-Title: 26px;
-  --breakpoint-md: 952;
-  --breakpoint-bd: 1025px;
   --text-stat-heading: 18px;
   --text-body-copy: 15px;
-
+  --breakpoint-lg: 923px;
   --text-stats: 14px;
   --font-Inter: "Inter";
   --font-Inter: "Lexend Deca";
