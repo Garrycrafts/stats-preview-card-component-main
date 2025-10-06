@@ -2,7 +2,7 @@
 @import "tailwindcss";
 
 @theme {
-  --text-Title: 26px;
+  --text-Title: 32px;
   --text-stat-heading: 18px;
   --text-body-copy: 15px;
   --breakpoint-lg: 923px;
@@ -25,3 +25,4 @@
   /* (stat headings) */
   --color-White-stats: hsla(0, 0%, 100%, 0.6);
 }
+/*  */
